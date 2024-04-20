@@ -1,5 +1,4 @@
 #!/bin/bash
-
 cd /home/siim/Music/greenwa-master/sein
 
 number=$RANDOM
