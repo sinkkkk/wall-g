@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/siim/Music/greenwa-master/sein
+cd /home/siim/wall-e/wall-g
 
 number=$RANDOM
 time=$(date "+%Y-%m-%d %T")
