@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /home/siim/wall-e/wall-g
+cd /Users/siimsink/Code/greenwall/wall-g
 
 number=$RANDOM
 time=$(date "+%Y-%m-%d %T")
